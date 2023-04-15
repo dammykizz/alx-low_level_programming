@@ -3,9 +3,15 @@
 
 /**
  * read_textfile - function to read a text file to the POSIX stdout.
+<<<<<<< HEAD
  * @filename: points to the file name.
  * @letters: number of characters the
  *           function read and print.
+=======
+ * @letters: number of characters the
+ *           function read and print.
+ * @filename: point to the file name. 
+>>>>>>> 0bdce54cdb5614d10645d76a76347a9548b5cc69
  *
  * Return: 0 if filename is NULL or if function fails.
  *         O/w - number of bytes the function reads and prints.
